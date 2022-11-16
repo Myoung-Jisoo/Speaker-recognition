@@ -6,8 +6,11 @@ Class는 8개로 목소리X(none), 연예인 3명, 일반인 4명의 목소리�
 tensorflow-2.3.0
 
 pip install tensorflow==2.3.0
+
 pip install opencv-python
+
 pip install opencv-contrib-python
+
 librosa
 
 
@@ -23,6 +26,10 @@ librosa
 |IU|Female|168 (140 / 38)|
 |D|Male|175 (140 / 35)|
 
+
+
+
+
 ### Results
 #### 1. Accuracy
 |Speaker|Accuracy(%)|Precision|Recall}
@@ -35,6 +42,7 @@ librosa
 |SJH|96.30|0.93|0.96|
 |IU|94.74|1.00|0.95|
 |D|97.14|0.97|0.97|
+
 
 
 #### 2. Confusion Matrix
