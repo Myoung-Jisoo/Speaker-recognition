@@ -32,7 +32,7 @@ librosa
 
 ### Results
 #### 1. Accuracy
-|Speaker|Accuracy(%)|Precision|Recall}
+|Speaker|Accuracy(%)|Precision|Recall|
 |:---:|:---:|:---:|:---:|
 |None|100|0.93|1.00|
 |A|100|0.99|1.00|
