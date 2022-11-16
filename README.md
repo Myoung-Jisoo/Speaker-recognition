@@ -13,7 +13,7 @@ librosa
 
 ### Dataset
 |Speaker|Gender|Number of frames (Train / Test)|
-|------|---|---|
+|:---:|:---:|:---:|
 |None| - |166 (140 / 26)|
 |A|Female|240 (140 / 100)|
 |KLN|Female|161 (140 / 21)|
@@ -26,7 +26,7 @@ librosa
 ### Results
 #### 1. Accuracy
 |Speaker|Accuracy(%)|Precision|Recall}
-|------|---|---|---|
+|:---:|:---:|:---:|:---:|
 |None|100|0.93|1.00|
 |A|100|0.99|1.00|
 |KLN|100|0.95|1.00|
