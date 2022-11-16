@@ -12,8 +12,8 @@ librosa
 
 
 ### Dataset
-|------|---|---|
 |Speaker|Gender|Number of frames\n(Train / Test)|
+|------|---|---|
 |None| - |166(140/26)|
 
 
