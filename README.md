@@ -12,11 +12,30 @@ librosa
 
 
 ### Dataset
-|Speaker|Gender|Number of frames|
-|       |      |(Train / Test)|
+|Speaker|Gender|Number of frames (Train / Test)|
 |------|---|---|
-|None| - |166(140/26)|
-
+|None| - |166 (140 / 26)|
+|A|Female|240 (140 / 100)|
+|KLN|Female|161 (140 / 21)|
+|B|Female|207 (140 / 67)|
+|C|Male|180 (140 / 40)|
+|SJH|Male|167 (140 / 27)|
+|IU|Female|168 (140 / 38)|
+|D|Male|175 (140 / 35)|
 
 ### Results
+#### 1. Accuracy
+|Speaker|Accuracy(%)|Precision|Recall}
+|------|---|---|---|
+|None|100|0.93|1.00|
+|A|100|0.99|1.00|
+|KLN|100|0.95|1.00|
+|B|98.51|0.99|0.99|
+|C|92.50|1.00|0.93|
+|SJH|96.30|0.93|0.96|
+|IU|94.74|1.00|0.95|
+|D|97.14|0.97|0.97|
+
+
+#### 2. Confusion Matrix
 ![cm](https://user-images.githubusercontent.com/76679855/202119162-3947adc4-75e7-4ae5-9874-dea46a63d12a.png)
