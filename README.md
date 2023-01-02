@@ -1,4 +1,6 @@
 # Speaker-recognition
+#### 프로젝트 보고서 pdf(https://drive.google.com/file/d/1YljiPxUyDpwY69NnLeJJRfhOXljVgLAM/view?usp=share_link)
+
 여러 명의 화자를 인식하는 것을 목표로 하는 프로젝트입니다. 
 (딥러닝 수업 개인 프로젝트로 진행했습니다.)
 Class는 8개로 목소리X(none), 연예인 3명, 일반인 4명의 목소리를 분류했습니다.
